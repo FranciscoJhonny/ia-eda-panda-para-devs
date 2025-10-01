@@ -1,0 +1,31 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.virtualenvs/
+
+# Pipenv
+Pipfile.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.dll
+*.exe
+*.msi
+
+# Dados (opcional: se quiser evitar enviar datasets)
+# datasets_aula/
+# .datasets_aula/
+
+# Logs e backups
+*.log
+*.bak
