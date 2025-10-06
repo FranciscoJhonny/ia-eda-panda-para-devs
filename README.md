@@ -82,7 +82,7 @@ Preparar os dados para possíveis modelos preditivos
 
 Francisco Jhonny Silva Maia
 
-Técnico de Karatê e estudante na Rocketseat
+Técnico de Karatê, Analista de Sistema e estudante na Rocketseat
 
 GitHub: [Francisco Jhonny](https://github.com/FranciscoJhonny)
 
