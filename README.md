@@ -49,7 +49,8 @@ Este projeto foi desenvolvido como parte da **aula da Rocketseat** para praticar
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/FranciscoJhonny/projeto-teste.git
+   git clone https://github.com/FranciscoJhonny/ia-eda-panda-para-devs.git
+   
 cd projeto-teste
 
 python -m venv venv
