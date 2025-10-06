@@ -6,11 +6,11 @@ Este projeto foi desenvolvido como parte da **aula da Rocketseat** para praticar
 
 ## 🚀 Objetivos do Projeto
 
-- Praticar o uso da biblioteca **Pandas**  
-- Realizar **tratamento e limpeza de dados**  
-- Gerar **estatísticas descritivas**  
-- Criar **visualizações gráficas** (barras e linhas)  
-- Obter **insights iniciais** a partir do conjunto de dados fornecido na aula  
+- Limpar e preparar o dataset para análise  
+- Explorar distribuições e relações entre variáveis  
+- Identificar características associadas a clientes que cancelaram  
+- Gerar visualizações que suportem hipóteses  
+- Apresentar insights relevantes para modelos preditivos  
 
 ---
 
@@ -23,7 +23,19 @@ Este projeto foi desenvolvido como parte da **aula da Rocketseat** para praticar
 <BR>┣ 📜 requirements.txt
 <BR>┗ 📜 README.md
 ---
+## 📋 Sumário
 
+- [Motivação](#motivação)  
+- [Objetivos](#objetivos)  
+- [Conteúdo](#conteúdo)  
+- [Estrutura do Notebook](#estrutura-do-notebook)  
+- [Como Executar](#como-executar)  
+- [Principais Descobertas](#principais-descobertas)  
+- [Possíveis Próximos Passos](#possíveis-próximos-passos)  
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+- [Como Contribuir](#como-contribuir)  
+- [Licença](#licença)
+- 
 ## 🛠 Tecnologias Utilizadas
 
 - [Python 3](https://www.python.org/)  
